@@ -1,0 +1,12 @@
+[project]
+name = "an-func-util"
+version = "0.1.0"
+description = "Analysis North utilities using Func-to-Web framework."
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "bmondata>=1.0.6",
+    "func-to-web>=0.9.2",
+    "matplotlib>=3.10.7",
+    "pandas>=2.3.3",
+]
